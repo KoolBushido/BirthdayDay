@@ -1,2 +1,2 @@
 # BirthdayDay
-Programs meant to display what day the user's birthday will land on in a week in the following years using the Zeller congruence formula
+Programs meant to display what weekday the user's birthday will land on given their birthday and desired year to examine
